@@ -9,8 +9,8 @@ import static org.gradle.sample.app.MessageUtils.getMessage;
 public class Main {
     public static void main(String[] args) {
         int test;
-            test = 0;
-            test += 1;
+        test = 0;
+        test += 1;
         int test2 = 0;
         System.out.println(test);
         LinkedList tokens;
