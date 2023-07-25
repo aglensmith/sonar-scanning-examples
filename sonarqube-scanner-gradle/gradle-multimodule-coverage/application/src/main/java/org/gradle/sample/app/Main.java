@@ -8,7 +8,7 @@ import static org.gradle.sample.app.MessageUtils.getMessage;
 
 public class Main {
     public static void main(String[] args) {
-        LinkedList tokens;
+            LinkedList tokens;
         tokens = split(getMessage());
         System.out.println(join(tokens));
     }
