@@ -11,6 +11,7 @@ public class Main {
         int test;
             test = 0;
             test += 1;
+        int test2 = 0;
         System.out.println(test);
         LinkedList tokens;
         
