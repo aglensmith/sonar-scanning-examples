@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         int test;
         test = 0;
-        test += 1;
+            test += 1;
         System.out.println(test);
         LinkedList tokens;
         
